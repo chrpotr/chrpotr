@@ -14,7 +14,9 @@ traceroute to chrpotr.com, 8 hops max, 60 byte packets
  5  * * *                    privacy advocate. no reply, by design
  6  maps.enthusiast  7.4 ms  map enthusiast. you're reading one
  7  dad-jokes.cache  0.0 ms  dad-joke collector. always a cache hit
- 8  <a href="https://chrpotr.com"><b>chrpotr.com      9.4 ms  destination. click to arrive</b></a>
+ 8  agents.prod      8.1 ms  runs AI agents for real. publishes what they cost and how they break
+ 9  chrpotr.com      9.4 ms  destination. click to arrive
+ </b></a>
 </pre>
 
 📍 **[Take me to chrpotr.com →](https://chrpotr.com)**
