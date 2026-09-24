@@ -1,12 +1,18 @@
+Hi, I'm Chris.
+
+```
 chris@rva:~$ tree -L 2 ~
 /home/chris
 ├── volunteer/
-│   ├── ITDRC  -> https://www.itdrc.org/
-│   ├── VaMRC  -> https://www.vdh.virginia.gov/mrc/
-│   └── CERT   -> https://www.ready.gov/cert
-├── day-job/
-│   └── technical-marketer  -> https://www.linkedin.com/in/chrpotr/
-├── hobbies-that-bring-me-joy/
-│   └── technology, maps, privacy, church, my family  -> https://bsky.app/profile/chrpotr.com
+│   ├── ITDRC  -> itdrc.org
+│   ├── VaMRC  -> vdh.virginia.gov/mrc
+│   └── CERT   -> ready.gov/cert
+├── professional/
+│   └── technical-marketer  -> linkedin.com/in/chrpotr
+├── personal/
+│   └── technology, maps, privacy, church, my family  -> bsky.app/profile/chrpotr.com
 └── projects/
-    └── the ones i'm working on  -> https://github.com/chrpotr?tab=repositories
+    └── the ones i'm working on  -> github.com/chrpotr
+```
+
+[ITDRC](https://www.itdrc.org/) · [VaMRC](https://www.vdh.virginia.gov/mrc/) · [CERT](https://www.ready.gov/cert) · [LinkedIn](https://www.linkedin.com/in/chrpotr/) · [Bluesky](https://bsky.app/profile/chrpotr.com) · [projects](https://github.com/chrpotr?tab=repositories)
